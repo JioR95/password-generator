@@ -30,11 +30,10 @@ body,
     border-radius: 10px;
     border-width: 15px;
     box-shadow: rgba(138, 43, 226, 0.2);
-    font-size: 25;
+    font-size: 20;
     margin: 0 auto;
     max-width: 600;
     padding: 35px;
-    text-align: center;
  }
 
  .box-header::after {
