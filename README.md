@@ -1,7 +1,5 @@
 # password-generator
 
-# password-generator
-
 #Reason 
 did this for a school project ran across some issues but have it up and running.
 
