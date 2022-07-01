@@ -50,6 +50,7 @@ body,
 
 .box-footer {
     text-align: center;
+    
 }
 
 .box-footer::before {
@@ -66,7 +67,7 @@ body,
     clear: both;
 }
 
-button {
+.button {
     border: none;
     background-color:white;
     border-radius: 50px;
@@ -82,7 +83,7 @@ button {
 }
 
 
-button[disabled] {
+.button[disabled] {
     cursor:default;
     background:white;
 }
